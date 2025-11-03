@@ -1,0 +1,103 @@
+Introduction to Computer Science, C001, Wednesday
+Data Structures and Algorithms, C002, Friday
+Operating Systems, C003, Thursday
+Database Systems, C004, Tuesday
+Computer Networks, C005, Friday
+Artificial Intelligence, C006, Wednesday
+Machine Learning, C007, Friday
+Deep Learning, C008, Monday
+Natural Language Processing, C009, Monday
+Computer Graphics, C010, Friday
+Software Engineering, C011, Monday
+Compiler Design, C012, Tuesday
+Web Programming, C013, Thursday
+Mobile App Development, C014, Friday
+Cybersecurity, C015, Monday
+Cryptography, C016, Friday
+Discrete Mathematics, C017, Tuesday
+Linear Algebra, C018, Tuesday
+Calculus I, C019, Monday
+Calculus II, C020, Monday
+Probability and Statistics, C021, Friday
+Digital Logic Design, C022, Thursday
+Microprocessors, C023, Friday
+Computer Architecture, C024, Monday
+Human-Computer Interaction, C025, Thursday
+Information Retrieval, C026, Tuesday
+Big Data Analytics, C027, Thursday
+Cloud Computing, C028, Friday
+Internet of Things, C029, Friday
+Embedded Systems, C030, Tuesday
+Parallel and Distributed Systems, C031, Friday
+Operating System Lab, C032, Tuesday
+Database Lab, C033, Thursday
+AI Lab, C034, Thursday
+Computer Vision, C035, Tuesday
+Game Development, C036, Thursday
+Digital Signal Processing, C037, Wednesday
+Control Systems, C038, Thursday
+Wireless Communication, C039, Thursday
+Computer Organization, C040, Thursday
+Network Security, C041, Friday
+Data Mining, C042, Thursday
+Numerical Methods, C043, Monday
+Optimization Techniques, C044, Wednesday
+Quantum Computing, C045, Tuesday
+Bioinformatics, C046, Friday
+Software Testing, C047, Friday
+Project Management, C048, Wednesday
+Computer Simulation, C049, Monday
+Reinforcement Learning, C050, Thursday
+Neural Networks, C051, Wednesday
+Data Visualization, C052, Friday
+Data Science, C053, Wednesday
+Web Security, C054, Tuesday
+Blockchain Technology, C055, Wednesday
+Ethical Hacking, C056, Friday
+Operating Systems Theory, C057, Monday
+Pattern Recognition, C058, Tuesday
+3D Modeling and Animation, C059, Wednesday
+Augmented Reality, C060, Wednesday
+Virtual Reality, C061, Tuesday
+Speech Processing, C062, Friday
+Advanced Algorithms, C063, Tuesday
+Software Design Patterns, C064, Wednesday
+API Development, C065, Monday
+Cloud Architecture, C066, Wednesday
+Computational Geometry, C067, Tuesday
+Formal Languages and Automata Theory, C068, Monday
+Systems Programming, C069, Thursday
+Operating Systems Design, C070, Monday
+Microservices Architecture, C071, Wednesday
+DevOps Fundamentals, C072, Wednesday
+Software Project Lab, C073, Thursday
+Research Methodology, C074, Friday
+Artificial Neural Systems, C075, Thursday
+Embedded C Programming, C076, Thursday
+Internet Security, C077, Monday
+Data Compression, C078, Tuesday
+Theory of Computation, C079, Wednesday
+Advanced Database Systems, C080, Monday
+Web Technologies, C081, Monday
+Mobile Computing, C082, Friday
+Operating Systems Concepts, C083, Monday
+Wireless Networks, C084, Wednesday
+Sensor Networks, C085, Friday
+Human-AI Interaction, C086, Monday
+Computational Biology, C087, Tuesday
+Network Protocols, C088, Monday
+Advanced Web Programming, C089, Wednesday
+AI Ethics, C090, Thursday
+Robotics, C091, Friday
+Computer Vision Systems, C092, Wednesday
+Cloud Deployment, C093, Thursday
+Virtual Machines, C094, Friday
+Software Maintenance, C095, Tuesday
+Compiler Construction, C096, Tuesday
+Advanced Programming in Java, C097, Monday
+Operating Systems for Embedded Devices, C098, Thursday
+Software Architecture, C099, Thursday
+Programming Languages, C100, Thursday
+Computer Ethics, C101, Wednesday
+Research Seminar, C102, Friday
+Capstone Project, C103, Thursday
