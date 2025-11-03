@@ -4,7 +4,7 @@
 
 [![View Diagram in Excalidraw](https://img.shields.io/badge/Open%20in-Excalidraw-blue?logo=excalidraw)](https://excalidraw.com/#json=wG_XptdBwUXJ76PbzCgvn,PG_HDVWSbKdtY511WwJ8TA)
 
-[![ER Diagram](./Excalidraw%20Whiteboard.png)](https://excalidraw.com/#json=wG_XptdBwUXJ76PbzCgvn,PG_HDVWSbKdtY511WwJ8TA)
+![System Structure](./exc.png)
 
 
 
