@@ -1,6 +1,10 @@
 # University Management System (U-Sys)
 ### Java Console Application — Object-Oriented Simulation of Academic Infrastructure
 
+
+[![View Diagram in Excalidraw](https://img.shields.io/badge/Open%20in-Excalidraw-blue?logo=excalidraw)](https://excalidraw.com/#json=wG_XptdBwUXJ76PbzCgvn,PG_HDVWSbKdtY511WwJ8TA)
+
+
 ---
 
 ## 1. Introduction
